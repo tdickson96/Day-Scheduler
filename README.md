@@ -8,11 +8,11 @@ GitHub REPOSITORY: https://github.com/tdickson96/Day-Scheduler
 
 ## Description
 
-Client wanted a daily planner to manage their time effectively on an hourly basis. The daily planner displays the date at the top of the calendar, presents timeblocks for standard business hours, views the timeblocks for that day, each timeblock is color coded to indicate past, present, or future, clicks a timeblock to submit a calendar event, clicks save button to save the calendar event, saves event text in local storage, and saved events persist on page refreshes.
+Client wanted a daily planner to manage their time effectively on an work day 8-hour basis. The daily planner displays the date at the top of the calendar, presents timeblocks for standard business hours, views the timeblocks for that day, each timeblock is color coded to indicate past, present, or future, clicks a timeblock to submit a calendar event, clicks save button to save the calendar event, saves event text in local storage, and saved events persist on page refreshes.
 
 ## Usage
 
-![alt text](./assets/images/screenshot0.png)
+![Website demonstration](./assets/images/05-third-party-apis-homework-demo.gif)
 
 
 ## Credits
