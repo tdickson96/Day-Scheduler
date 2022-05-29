@@ -12,7 +12,7 @@ Client wanted a daily planner to manage their time effectively on an work day 8-
 
 ## Usage
 
-![Website demonstration](./assets/images/05-third-party-apis-homework-demo.gif)
+![Website demonstration](./assets/images/demo.gif)
 
 
 ## Credits
