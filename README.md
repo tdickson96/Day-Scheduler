@@ -18,5 +18,7 @@ Client wanted a daily planner to manage their time effectively on an work day 8-
 ## Credits
 Trent Dickson
 Godfrey Best
+Richard Zhang
+Sachmilan Singh
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
